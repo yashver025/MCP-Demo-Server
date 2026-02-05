@@ -49,7 +49,7 @@ The server will start on `http://0.0.0.0:8000`
 1. Install and open [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
 2. Configure the connection:
    - **Transport Type**: Streamable HTTP
-   - **URL**: `http://localhost:8000/sse`
+   - **URL**: `http://localhost:8000/mcp`
    - **Connection Type**: Via Proxy
 3. Click "Connect" to start inspecting the server
 
@@ -87,3 +87,4 @@ This server is deployed using FastMCP's deployment platform. To deploy your own:
 ---
 
 **Note**: This is a demo project created for learning and testing MCP server development.
+
